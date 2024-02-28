@@ -1,0 +1,598 @@
+{
+    "model-prefixes": [
+        "EVE-",
+        "RUNE-",
+        "BAL-",
+        "AND-",
+        "BNE-",
+        "DCO-",
+        "CET-",
+        "CHA-",
+        "GOT-",
+        "GLA-",
+        "NCO-",
+        "BAH4-",
+        "PAL-",
+        "ODN-",
+        "FRG-",
+        "MLY-",
+        "Ags3K-",
+        "AGS5-",
+        "MGA-",
+        "ABR-",
+        "JLN-",
+        "JuliaQN-",
+        "RMX2190-",
+        "FIO-",
+        "JSC-",
+        "WKG-",
+        "Wukong-",
+        "MLD-",
+        "MIL-",
+        "RTE-",
+        "Hebe-",
+        "NAM-",
+        "ANG-",
+        "JAD-",
+        "CHL-",
+        "NEN-",
+        "NOH-",
+        "OCE-",
+        "TET-",
+        "WGR-",
+        "MRR-",
+        "DBY-",
+        "BRQ-",
+        "AGRK-",
+        "ANA-",
+        "PPA-",
+        "NOP-",
+        "VID-",
+        "LIO-",
+        "BAH3-",
+        "FRL-",
+        "SCMR-",
+        "AGS3-",
+        "NIK-",
+        "DVC-",
+        "AQM-",
+        "CDY-",
+        "Kobe2-",
+        "KOB2-",
+        "MED-",
+        "DRA-",
+        "JER-",
+        "JEF-",
+        "HCT-",
+        "ELS-",
+        "ART-",
+        "JNY-",
+        "TAH-",
+        "WLZ-",
+        "MRX-",
+        "TAS-",
+        "LTN-",
+        "DAN-",
+        "LEM-",
+        "FGD-",
+        "XYAO-",
+        "BON-",
+        "CLB-",
+        "ALN-",
+        "ARA-",
+        "PNX-",
+        "ALT-",
+        "BRA-",
+        "DBY2-",
+        "STG-",
+        "MDS-",
+        "ARC-",
+        "GOA-",
+        "FOA-",
+        "MNA-",
+        "LNA-",
+        "DBR-"
+    ],
+    "devices": {
+        "Huawei Watch Buds": [],
+        "Huawei Enjoy 50z": [
+            "EVE-AL00"
+        ],
+        "Huawei Watch GT 3 SE": [
+            "RUNE-B29"
+        ],
+        "Huawei Pocket S": [
+            "BAL-AL60"
+        ],
+        "Huawei Watch GT Cyber": [
+            "AND-B19"
+        ],
+        "Huawei nova Y61": [
+            "EVE-LX9",
+            "EVE-LX9N",
+            "EVE-LX3"
+        ],
+        "Huawei nova 10 SE": [
+            "BNE-LX1",
+            "BNE-LX3"
+        ],
+        "Huawei Mate 50 RS Porsche Design": [
+            "DCO-AL00"
+        ],
+        "Huawei Mate 50 Pro": [
+            "DCO-AL00",
+            "DCO-LX9"
+        ],
+        "Huawei Mate 50E": [],
+        "Huawei Mate 50": [
+            "CET-AL00",
+            "CET-LX9"
+        ],
+        "Huawei nova 10z": [
+            "CHA-AL80"
+        ],
+        "Huawei MatePad Pro 11 (2022)": [
+            "GOT-W09",
+            "GOT-W29",
+            "GOT-AL09",
+            "GOT-AL19"
+        ],
+        "Huawei nova 10 Pro": [
+            "GLA-AL00",
+            "GLA-LX1"
+        ],
+        "Huawei nova 10": [
+            "NCO-AL00",
+            "NCO-LX1"
+        ],
+        "Huawei MatePad 10.4 (2022)": [
+            "BAH4-W09"
+        ],
+        "Huawei Mate Xs 2": [
+            "PAL-AL00",
+            "PAL-LX9"
+        ],
+        "Huawei Watch GT 3 Porsche Design": [
+            "ODN-B19"
+        ],
+        "Huawei Watch GT 3 Pro": [
+            "ODN-B19",
+            "FRG-B19"
+        ],
+        "Huawei Watch D": [
+            "MLY-B10",
+            "MLY-B11",
+            "MLY-B19"
+        ],
+        "Huawei MatePad SE": [
+            "Ags3K-W20",
+            "Ags3K-AL20",
+            "AGS5-W09"
+        ],
+        "Huawei nova 9 SE 5G": [],
+        "Huawei nova Y70 Plus": [
+            "MGA-LX9",
+            "MGA-LX9N",
+            "MGA-LX3"
+        ],
+        "Huawei P50E": [
+            "ABR-AL60"
+        ],
+        "Huawei nova 9 SE": [
+            "JLN-LX1",
+            "JLN-LX3",
+            "JuliaQN-L01B",
+            "JuliaQN-L21B",
+            "JuliaQN-L23A",
+            "RMX2190",
+            "FIO-BD00"
+        ],
+        "Huawei P50 Pocket": [
+            "BAL-AL00",
+            "BAL-L49"
+        ],
+        "Huawei nova 8 SE 4G": [
+            "JSC-AL50"
+        ],
+        "Huawei nova Y60": [
+            "WKG-LX9",
+            "Wukong-L29A"
+        ],
+        "Huawei Enjoy 20e": [
+            "MLD-AL10"
+        ],
+        "Huawei Watch GT Runner": [],
+        "Huawei Watch Fit mini": [],
+        "Huawei Watch GT 3": [
+            "MIL-B19"
+        ],
+        "Huawei nova 9 Pro": [
+            "RTE-AL00",
+            "Hebe-BD00"
+        ],
+        "Huawei nova 9": [
+            "NAM-AL00",
+            "NAM-LX9"
+        ],
+        "Huawei nova 8": [
+            "ANG-L02B",
+            "ANG-L21B",
+            "ANG-L22B",
+            "ANG-LX1",
+            "ANG-LX2"
+        ],
+        "Huawei P50 Pro": [
+            "JAD-AL50",
+            "JAD-LX9"
+        ],
+        "Huawei P50": [
+            "ABR-AL00",
+            "ABR-LX9"
+        ],
+        "Huawei nova 8 SE Youth": [
+            "CHL-AL60"
+        ],
+        "Huawei nova 8i": [
+            "NEN-L22",
+            "NEN-LX1",
+            "NEN-LX3"
+        ],
+        "Huawei Mate 40 Pro 4G": [
+            "NOH-AL00"
+        ],
+        "Huawei Mate 40E 4G": [
+            "OCE-AL50"
+        ],
+        "Huawei Mate X2 4G": [
+            "TET-AL00"
+        ],
+        "Huawei MatePad Pro 12.6 (2021)": [
+            "WGR-W09",
+            "WGR-W19",
+            "WGR-AN19"
+        ],
+        "Huawei MatePad Pro 10.8 (2021)": [
+            "MRR-W29"
+        ],
+        "Huawei MatePad 11 (2021)": [
+            "DBY-W09"
+        ],
+        "Huawei Watch 3 Pro": [],
+        "Huawei Watch 3": [],
+        "Huawei nova 8 Pro 4G": [
+            "BRQ-AN00"
+        ],
+        "Huawei MatePad T 10": [
+            "AGRK-L09",
+            "AGRK-W09"
+        ],
+        "Huawei Watch Fit Elegant": [],
+        "Huawei Mate 40E": [
+            "OCE-AN50"
+        ],
+        "Huawei P40 4G": [
+            "ANA-AL00"
+        ],
+        "Huawei Mate X2": [
+            "TET-AN00"
+        ],
+        "Huawei nova 8 Pro 5G": [
+            "BRQ-AN00"
+        ],
+        "Huawei nova 8 5G": [
+            "ANG-AN00"
+        ],
+        "Huawei Enjoy 20 SE": [
+            "PPA-AL20"
+        ],
+        "Huawei nova 8 SE": [
+            "JSC-AN00"
+        ],
+        "Huawei Mate 40 RS Porsche Design": [
+            "NOP-AN00"
+        ],
+        "Huawei Mate 40 Pro+": [
+            "NOP-AN00"
+        ],
+        "Huawei Mate 40 Pro": [
+            "NOH-NX9",
+            "NOH-AN00",
+            "NOH-AN01"
+        ],
+        "Huawei Mate 40": [
+            "OCE-AN10"
+        ],
+        "Huawei Watch GT 2 Porsche Design": [
+            "VID-B19"
+        ],
+        "Huawei Mate 30E Pro 5G": [
+            "LIO-AN00m"
+        ],
+        "Huawei nova 7 SE 5G Youth": [],
+        "Huawei Y7a": [
+            "PPA-LX3"
+        ],
+        "Huawei P smart 2021": [
+            "PPA-LX1",
+            "PPA-LX2"
+        ],
+        "Huawei MatePad 5G": [
+            "BAH3-AN10"
+        ],
+        "Huawei Watch GT 2 Pro": [
+            "VID-B19"
+        ],
+        "Huawei Y9a": [
+            "FRL-22",
+            "FRL-23",
+            "FRL-L22",
+            "FRL-L23"
+        ],
+        "Huawei Enjoy 20 Plus 5G": [
+            "FRL-AN00a"
+        ],
+        "Huawei Enjoy 20 5G": [
+            "WKG-AN00"
+        ],
+        "Huawei Watch Fit": [],
+        "Huawei MatePad 10.8": [
+            "SCMR-W09",
+            "SCMR-AL00"
+        ],
+        "Huawei MatePad T 10s": [
+            "AGS3-L09",
+            "AGS3-W09"
+        ],
+        "Huawei Enjoy Tablet 2": [
+            "AGS3-W00D"
+        ],
+        "Huawei Children's Watch 4X": [
+            "NIK-AL00"
+        ],
+        "Huawei Enjoy 20 Pro": [
+            "DVC-AN20"
+        ],
+        "Huawei Enjoy Z 5G": [
+            "DVC-AN00"
+        ],
+        "Huawei P Smart S": [],
+        "Huawei Y8p": [
+            "AQM-LX1"
+        ],
+        "Huawei P40 lite 5G": [
+            "CDY-NX9A"
+        ],
+        "Huawei MatePad T8": [
+            "Kobe2-L09",
+            "Kobe2-L03",
+            "KOB2-L09",
+            "KOB2-W09"
+        ],
+        "Huawei Y6p": [
+            "MED-LX9",
+            "MED-LX9N"
+        ],
+        "Huawei Y5p": [
+            "DRA-LX9"
+        ],
+        "Huawei nova 7 Pro 5G": [
+            "JER-AN10",
+            "JER-AN20"
+        ],
+        "Huawei nova 7 5G": [
+            "JEF-AN00",
+            "JEF-NX9",
+            "JEF-AN20"
+        ],
+        "Huawei nova 7 SE": [
+            "CDY-AN00",
+            "CDY-NX9B",
+            "CDY-TN00"
+        ],
+        "Huawei MatePad 10.4": [
+            "BAH3-W09",
+            "BAH3-AL00",
+            "BAH3-L09",
+            "BAH3-W59"
+        ],
+        "Huawei Watch GT 2e": [
+            "HCT-B19"
+        ],
+        "Huawei Enjoy 10e": [
+            "MED-AL00",
+            "MED-AL20",
+            "MED-TL00"
+        ],
+        "Huawei P40 Pro+": [
+            "ELS-N39",
+            "ELS-AN10"
+        ],
+        "Huawei P40 Pro": [
+            "ELS-NX9",
+            "ELS-N04",
+            "ELS-AN00",
+            "ELS-TN00"
+        ],
+        "Huawei P40": [
+            "ANA-AN00",
+            "ANA-TN00",
+            "ANA-NX9",
+            "ANA-LX4"
+        ],
+        "Huawei P40 lite E": [
+            "ART-L28",
+            "ART-L29",
+            "ART-L29N"
+        ],
+        "Huawei P40 lite": [
+            "JNY-L21A",
+            "JNY-L01A",
+            "JNY-L21B",
+            "JNY-L22A",
+            "JNY-L02A",
+            "JNY-L22B",
+            "JNY-LX1"
+        ],
+        "Huawei MatePad Pro 10.8 5G (2019)": [],
+        "Huawei Mate Xs": [
+            "TAH-N29m"
+        ],
+        "Huawei Y7p": [
+            "ART-L28",
+            "ART-L29"
+        ],
+        "Huawei nova 7i": [
+            "JNY-L22B",
+            "JNY-L21A",
+            "JNY-L01A",
+            "JNY-L21B",
+            "JNY-L22A",
+            "JNY-L02A",
+            "JNY-LX2"
+        ],
+        "Huawei nova 6": [
+            "WLZ-AL10",
+            "WLZ-TL10"
+        ],
+        "Huawei nova 6 SE": [
+            "JNY-AL10",
+            "JNY-TL10"
+        ],
+        "Huawei MatePad Pro 10.8 (2019)": [
+            "MRX-AL09",
+            "MRX-AL19",
+            "MRX-W09",
+            "MRX-W19"
+        ],
+        "Huawei Mate 30 RS Porsche Design": [
+            "LIO-N29",
+            "LIO-AN00P",
+            "LIO-AN00"
+        ],
+        "Huawei Mate 30 Pro 5G": [
+            "LIO-N29",
+            "LIO-AL10",
+            "LIO-TL10"
+        ],
+        "Huawei Mate 30 Pro": [
+            "LIO-L09",
+            "LIO-L29",
+            "LIO-AL00",
+            "LIO-TL00"
+        ],
+        "Huawei Mate 30 5G": [
+            "TAS-AN00",
+            "TAS-TN00"
+        ],
+        "Huawei Mate 30": [
+            "TAS-L09",
+            "TAS-L29",
+            "TAS-AL00",
+            "TAS-TL00"
+        ],
+        "Huawei Watch GT 2": [
+            "LTN-B19",
+            "DAN-B19"
+        ],
+        "Huawei Pocket 2": [
+            "LEM-AL00"
+        ],
+        "Huawei Enjoy 70z": [
+            "MGA-AL40"
+        ],
+        "Huawei nova Y72": [],
+        "Huawei nova 12 Ultra": [],
+        "Huawei nova 12 Pro": [],
+        "Huawei nova 12": [],
+        "Huawei nova 12 Lite": [],
+        "Huawei Enjoy 70": [
+            "FGD-AL00"
+        ],
+        "Huawei MatePad Pro 11 (2024)": [
+            "XYAO-W00"
+        ],
+        "Huawei nova 11 SE": [
+            "BON-AL00"
+        ],
+        "Huawei Watch Ultimate Design": [
+            "CLB-B19"
+        ],
+        "Huawei Mate 60 RS Ultimate": [
+            "ALN-AL10"
+        ],
+        "Huawei Watch GT 4": [
+            "ARA-B19",
+            "PNX-B19"
+        ],
+        "Huawei Mate 60 Pro+": [
+            "ALN-AL10"
+        ],
+        "Huawei Mate X5": [
+            "ALT-AL10"
+        ],
+        "Huawei Mate 60 Pro": [
+            "ALN-AL00",
+            "ALN-AL80"
+        ],
+        "Huawei Mate 60": [
+            "ALN-AL00",
+            "BRA-AL00"
+        ],
+        "Huawei MatePad Air": [
+            "DBY2-L09CK"
+        ],
+        "Huawei nova Y91": [
+            "STG-LX1",
+            "STG-LX2"
+        ],
+        "Huawei Watch 4 Pro": [
+            "MDS-AL00",
+            "MDS-AL10"
+        ],
+        "Huawei Watch 4": [
+            "ARC-AL00"
+        ],
+        "Huawei nova Y71": [],
+        "Huawei Enjoy 60X": [
+            "STG-AL00"
+        ],
+        "Huawei nova 11 Ultra": [
+            "GOA-AL80U"
+        ],
+        "Huawei nova 11 Pro": [
+            "GOA-AL80",
+            "GOA-LX9"
+        ],
+        "Huawei nova 11": [
+            "FOA-AL00",
+            "FOA-LX9"
+        ],
+        "Huawei Mate X3": [
+            "ALT-AL00",
+            "ALT-L29"
+        ],
+        "Huawei P60 Pro": [
+            "MNA-AL00",
+            "MNA-LX9"
+        ],
+        "Huawei P60": [
+            "LNA-AL00",
+            "LNA-LX9"
+        ],
+        "Huawei P60 Art": [
+            "MNA-AL00"
+        ],
+        "Huawei Enjoy 60": [
+            "MGA-AL40"
+        ],
+        "Huawei Watch Ultimate": [
+            "CLB-B19"
+        ],
+        "Huawei MatePad 11 (2023)": [
+            "DBR-W10"
+        ],
+        "Huawei nova 10 Youth": [
+            "JLN-AL00"
+        ]
+    }
+}

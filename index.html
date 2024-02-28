@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Huawei device detection using user agent</title>
+    <script src="HauweiDetector.js"></script>
+    <style>
+      body {
+        height: "96vh";
+        display: "flex";
+        flex-direction: column;
+        justify-content: "center";
+        align-items: "center";
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      createTxtElement("H4", "User Agent: " + navigator.userAgent);
+      createTxtElement("H2", "Is Huawei Browser: " + isHuaweiBrowser());
+      createTxtElement("H2", "Is Huawei Device: " + isHuaweiAndroidPhone());
+
+      // Function to create and insert H1 element
+      function createTxtElement(type, text) {
+        const el = document.createElement(type);
+        el.textContent = text;
+        document.body.appendChild(el);
+      }
+    </script>
+  </body>
+</html>
